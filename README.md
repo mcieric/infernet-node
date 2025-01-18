@@ -92,6 +92,8 @@ make build
 
 # Multi-platform build and push to repo
 make build-multiplatform
+
+END
 ```
 
 ## License
